@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(27, 22, 22);
+    font-family: sans-serif;
+    
+}
+.inicio{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+}
+.inicio:hover{
+    color: rgb(138, 138, 138);
+}
+.nosotros{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+}
+.nosotros:hover{
+    color: rgb(138, 138, 138);
+}
+.perros{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+}
+.perros:hover{
+    color: rgb(138, 138, 138);
+}
+.gatos{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+}
+.gatos:hover{
+    color: rgb(138, 138, 138);
+}
+.contacto{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+}
+.contacto:hover{
+    color: rgb(138, 138, 138);
+}
+.color1{
+    background-color: rgb(91, 202, 240);
+    color: white;
+}
+.color2{
+    background-color: rgb(233, 218, 17);
+    color: white;
+}
+.color3{
+    background-color: rgb(255, 153, 0);
+    color: white;
+}
+.color4{
+    background-color: red;
+    color: white;
+}
+main{
+    width: 80%;
+    height: 25%;
+}
+nav ul li{
+    padding: .2rem .5rem .2rem .5rem;
+}
+
